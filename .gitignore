@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Lab4.xlsx
 
 # C extensions
 *.so
